@@ -1,6 +1,7 @@
 Introduction
 ============
 
+
 .. image:: https://readthedocs.org/projects/circuitpython-ahrs/badge/?version=latest
     :target: https://circuitpython-ahrs.readthedocs.io/
     :alt: Documentation Status
@@ -68,4 +69,4 @@ before contributing to help this project stay welcoming.
 Documentation
 =============
 
-
+Rebuild
